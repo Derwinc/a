@@ -1,0 +1,63 @@
+*{
+    margin: 5px;
+}
+
+body{
+   background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: red;
+    border-color: aqua;
+    margin-bottom: 5px;
+    border: 10px;
+}
+
+h2{
+    color: blue;
+    margin-bottom: 5px;
+    border: 10px;
+}
+
+h3{
+    color: aqua;
+}
+
+img{
+    border: 8px solid fuchsia;
+    float: left;
+}
+
+p{
+    color: darkturquoise;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.text-danger{
+    color: red;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.header{
+    background-color: yellow;
+}
+
+.context{
+    background-color: white;
+}
+
+button{
+    background: white;
+    color: fuchsia;
+    border-radius: 60px;
+}
+
+hr{
+    background: white;
+    height: 2px;
+}
